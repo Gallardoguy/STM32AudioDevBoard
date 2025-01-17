@@ -1,4 +1,5 @@
 # STM32AudioDevBoard
+![pedal](pedal.jpg)
 This is a STM32 audio processor board used as a guitar pedal. It features a 24 bit audio codec sampling at 96k and an STM32H7 operating at 280 Mhz. The idea and goal of this project was to replace my last pedal. In that one, I was buying a dev board and integrating it into my PCB. I wanted to cut out the dev board and design everything myself from the ground up. 
 The schematic pdf can be found in the repo along with the firmware.
 
